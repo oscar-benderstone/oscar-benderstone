@@ -3,6 +3,7 @@ I am interested in studying game engines, assembly, and formal languages. Curren
 working on a new language called Welkin for my note taking needs.
 
 You can reach me at: oscarbenderstone@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/oscar-bender-stone/
 
 <!---
