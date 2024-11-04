@@ -1,6 +1,6 @@
-Hello! My name is Oscar, and I am a Mathematics major at the University of Colorado, Boulder.
-I am interested in studying game engines, assembly, and formal languages. Currently, I am 
-working on a new language called Welkin for my note taking needs.
+Hello! My name is Oscar, and I am a Math and CS major at the University of Colorado, Boulder.
+I am interested in studying game engines, assembly, and formal verificaiton. Currently, I am 
+working on a new language called Welkin for note taking, formal verification, and more!
 
 You can reach me at: oscarbenderstone@gmail.com
 
